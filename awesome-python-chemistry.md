@@ -67,6 +67,7 @@ Inspired by [awesome-python](https://awesome-python.com).
 * [imolecule](http://patrickfuller.github.io/imolecule/) - An embeddable webGL molecule viewer and file format converter.
 * [nglview](https://github.com/arose/nglview) - A [Jupyter](https://jupyter.org/) widget to interactively view molecular structures and trajectories.
 * [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymoldyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
+* [pymoldyn](https://pgi-jcns.fz-juelich.de/portal/pages/pymolPubChemPydyn-main.html) - A viewer for atomic clusters, crystalline and amorphous materials in a unit cell corresponding to one of the seven 3D Bravais lattices.
 
 
 ## Database wrappers
@@ -74,3 +75,14 @@ Inspired by [awesome-python](https://awesome-python.com).
 *Providing a python layer for accessing chemical databases*
 
 * [ChemSpiPy](http://chemspipy.readthedocs.io/en/latest/) - [ChemSpider](http://www.chemspider.com/) wrapper, that allows chemical searches, chemical file downloads, depiction and retrieval of chemical properties. 
+* [oddt](https://github.com/oddt/oddt) - Open Drug Discovery Toolkit (ODDT) is modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc. ODDT is written in Python, and make extensive use of Numpy/Scipy.
+* [CIRpy](https://github.com/mcs07/CIRpy) - Python wrapper for the NCI Chemical Identifier Resolver (CIR)
+* [chembl_webresource_client](https://github.com/chembl/chembl_webresource_client) - Official Python client for accessing [ChEMBL API](https://www.ebi.ac.uk/chembl/ws)
+
+
+## Parsers and taggers 
+
+* [Mol2vec](https://github.com/samoturk/mol2vec) - an unsupervised machine learning approach to learn vector representations of molecular substructures
+* [PyChemy](https://github.com/ginkgobioworks/pychemy) - Python helpers for handling chemical formulas
+* [ChemTagger 1.0.0](https://pypi.python.org/pypi/ChemTagger) - A name-tagger for chemical or other entities. 
+* [RParser](https://github.com/shaunrong/RParser) - An NLP parser to extract structured information from Materials Science Literature
